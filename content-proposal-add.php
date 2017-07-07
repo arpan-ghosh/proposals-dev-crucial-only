@@ -3,6 +3,7 @@
  * content-proposal-add
  * Add proposal view
  * now with EULA and Metals front end change
+ * And back-end database changed
  */
 global $user_level;
 
