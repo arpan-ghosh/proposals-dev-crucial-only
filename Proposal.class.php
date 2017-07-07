@@ -4,6 +4,7 @@ class Proposal
 {
 
     public
+        #git check
         $current_user_id = NULL,
         $userdata = NULL,
         $current_user_meta = NULL,
@@ -34,7 +35,7 @@ class Proposal
         $code_tools_management = NULL,
         $point_of_contact = NULL,
         $terms = NULL,
-        $ack1 = FALSE,
+        $ack2 = FALSE,
         $publications_resultant = NULL,
         $transitions = NULL,
         $presentations_resultant = NULL,
